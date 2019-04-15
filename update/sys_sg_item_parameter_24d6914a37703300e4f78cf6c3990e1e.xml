@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Start date</name>
+        <parent>0f44dc653770b300e4f78cf6c3990e5e</parent>
+        <parent_table>sys_sg_data_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-15 09:01:34</sys_created_on>
+        <sys_id>24d6914a37703300e4f78cf6c3990e1e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Start date</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_24d6914a37703300e4f78cf6c3990e1e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-15 09:01:34</sys_updated_on>
+        <type>date</type>
+    </sys_sg_item_parameter>
+</record_update>
